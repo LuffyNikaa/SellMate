@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944489743852",
+    "project_id": "sellmate-58bb3",
+    "storage_bucket": "sellmate-58bb3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944489743852:android:9fc54e9eca47a129682cc9",
+        "android_client_info": {
+          "package_name": "com.example.sellmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Kk1tb3DOFutpsJ5z00XWH-p2qViHxjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
