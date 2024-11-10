@@ -80,5 +80,8 @@ dependencies {
 
 // Firebase Cloud Messaging (jika membutuhkan notifikasi push)
     implementation("com.google.firebase:firebase-messaging-ktx")
+    implementation ("androidx.compose.material:material-icons-extended:<compose_version>")
+    implementation("androidx.compose.material3:material3:1.0.0")
+
 
 }
