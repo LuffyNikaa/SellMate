@@ -55,6 +55,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.runtime.livedata)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
@@ -82,6 +83,16 @@ dependencies {
     implementation("com.google.firebase:firebase-messaging-ktx")
     implementation ("androidx.compose.material:material-icons-extended:<compose_version>")
     implementation("androidx.compose.material3:material3:1.0.0")
+    implementation ("androidx.navigation:navigation-compose:2.5.1")
+    implementation ("com.google.firebase:firebase-firestore-ktx:24.4.2")// Pastikan versinya adalah yang terbaru
+
+        implementation ("com.google.accompanist:accompanist-permissions:0.23.1")
+
+            implementation("io.coil-kt:coil-compose:2.2.2")
+    // SharedPreferences untuk penyimpanan data
+    implementation("androidx.preference:preference-ktx:1.1.1")
 
 
 }
+
+
